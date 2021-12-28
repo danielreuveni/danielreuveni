@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Computer Science at the Open Unviersity of Israel.
 - ⚡ Fun fact: My loved programmng language is Assembly...
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel_Reuveni&theme=dark&show_icons=true)
+
+
 <!--
 **danielreuveni/danielreuveni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +18,3 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel Reuveni&theme=dark&show_icons=true)
