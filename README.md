@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: danielre162162@gmail.com
 - ⚡ Fun fact: I like Assembly
 -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel Reuveni&theme=dark&show_icons=true)
