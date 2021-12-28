@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science at the Open Unviersity of Israel.
 - ⚡ Fun fact: My loved programmng language is Assembly...
 
-								![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielreuveni&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielreuveni&theme=dark&show_icons=true)
 
 
 <!--
