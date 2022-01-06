@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science at the Open Unviersity of Israel.
 - ⚡ Fun fact: My loved programmng language is Assembly...
 
-![](https://komarev.com/ghpvc/?username=danielreuveni)
+      ![](https://komarev.com/ghpvc/?username=danielreuveni)
 
 
 
