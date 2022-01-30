@@ -3,8 +3,6 @@
 - 🌱 I’m currently learn Computer Science at the Open Unviersity of Israel.
 - ⚡ Fun fact: My loved programmng language is Assembly...\
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielreuveni)](https://github.com/danielreuveni/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=danielreuveni)
 
 
